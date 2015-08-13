@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<inventory>
+   <category type="books">
+      <id>10001</id>
+      <name>Bhagavad Gita</name>
+      <price>$10</price>
+   </category>
+   <category type="Movies">
+      <id>10002</id>
+      <name>Arya 2</name>
+      <price>$5</price>
+   </category>
+   <category type="Movies">
+      <id>10003</id>
+      <name>Surya S/o Krishnan</name>
+      <price>$6</price>
+   </category>
+   <category type="books">
+      <id>10004</id>
+      <name>The Bible</name>
+      <price>$7</price>
+   </category>
+   <category type="books">
+      <id>10005</id>
+      <name>The Quran</name>
+      <price>$8</price>
+   </category>
+   <category type="Movies">
+      <id>10006</id>
+      <name>Aduvari Matalaku Arthaleverule</name>
+      <price>$15</price>
+   </category>
+   <category type="Movies">
+      <id>10007</id>
+      <name>Yem Maya Chesave</name>
+      <price>$20</price>
+   </category>
+   <category type="books">
+      <id>10008</id>
+      <name>Three Mistakes of Life</name>
+      <price>$15</price>
+   </category>
+</inventory>

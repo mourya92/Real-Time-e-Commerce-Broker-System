@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<inventory>
+   <category type="songs">
+      <id>10001</id>
+      <name>Uptown.mp3</name>
+      <price>$2</price>
+   </category>
+   <category type="movies">
+      <id>10002</id>
+      <name>GoldenGate.mp4</name>
+      <price>$50</price>
+   </category>
+   <category type="images">
+      <id>10003</id>
+      <name>Fantastic_Four.jpg</name>
+      <price>$6</price>
+   </category>
+   <category type="songs">
+      <id>10004</id>
+      <name>Drinking_games</name>
+      <price>$7</price>
+   </category>
+   <category type="images">
+      <id>10005</id>
+      <name>Inside_Out.jpg</name>
+      <price>$8</price>
+   </category>
+   <category type="images">
+      <id>10006</id>
+      <name>Benz.jpg</name>
+      <price>$5</price>
+   </category>
+   <category type="images">
+      <id>10007</id>
+      <name>StoneFields.jpg</name>
+      <price>$2</price>
+   </category>
+</inventory>
